@@ -8,7 +8,7 @@
 
 <h2>📄 Certifications:</h2>
 
-  - [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google IT Support Professional](https://coursera.org/share/378fa7acbe44f9583d4d1218541338b8)
 
 <h2>📺 Popular YouTube Videos</h2>
 
