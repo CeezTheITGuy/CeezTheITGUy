@@ -3,8 +3,6 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/CeezTheITGuy/ActiveDirectoryLab)
-  - [Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Tic Tac Toe Computer Game](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications:</h2>
 
