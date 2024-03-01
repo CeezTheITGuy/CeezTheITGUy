@@ -10,7 +10,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Setting Up a Windows 11 Virtual Machine](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Setting Up a Windows 11 Virtual Machine](https://www.youtube.com/channel/UCvch0qtfn8YtxqJXJdSAHAA)
 
 <h2> 🤳 Connect with me:</h2>
 
